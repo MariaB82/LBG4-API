@@ -4,5 +4,5 @@
 npm install
 npm test
 #build image docker build -t node image .
-docker build -t nodeimage .
+docker build -t nodeimage_maria .
 
